@@ -1,0 +1,9 @@
+To activiate microsoft office 365 proplus 
+
+step 1 :- turn off windows real time protection or any antivirus real time protection. 
+
+step 2:- select office365.cmd and run as administrator it will start activiting office 365 
+
+step 3 :- After finishing the cmd process open Microsoft word and enjoy microsoft office 365 pro plus 2016
+ 
+Note :- All the Microsoft Office,word,powerpoint,Excel.etc should be install first .  
